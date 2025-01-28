@@ -9,12 +9,7 @@ As players progress, the difficulty increases with more precise movements requir
 Features
 	•	Custom Controller: Built using four switches and a joystick for full gameplay control.
 	•	Dynamic Gameplay: Tracks time for each puzzle and provides audio feedback for actions like attaching pieces and solving puzzles.
-	•	Visuals and Audio: Includes celebratory sounds and visually appealing graphics for an engaging experience.
-
-Video Demonstrations
-	•	Demonstration 1: Mr. Godbless Osei
-	•	Demonstration 2: Mr. Aimable Tuyisenge
-	•	Demonstration 3: Screen Recording
+	•	Visuals and Audio: Includes celebratory sounds and visually appealing graphics for an engaging experience
 
 Implementation
 
@@ -34,8 +29,6 @@ The Arduino code reads data from the controller and communicates with the game v
 	2.	Sending data to the P5.js sketch.
 	3.	Controlling speakers based on game states.
 
-View Arduino Code
-
 P5.js Sketch
 
 The P5.js sketch manages game states such as “WELCOME,” “INSTRUCTIONS,” and “PLAY.” It processes inputs from the controller and updates the game dynamically. Features include:
@@ -43,8 +36,6 @@ The P5.js sketch manages game states such as “WELCOME,” “INSTRUCTIONS,” 
 	2.	Controller Integration: Reads data for smooth interactions.
 	3.	Dynamic Feedback: Hints, timers, and celebration effects.
 	4.	State Management: Transitions between screens based on progress.
-
-View P5.js Sketch
 
 Communication
 
