@@ -1,4 +1,6 @@
 NYUAD Puzzle Adventure
+[![Run in p5.js](https://img.shields.io/badge/Open-p5.js-red?style=for-the-badge&logo=p5.js)](https://editor.p5js.org/NelsonMbigili/full/rHG9PWJtX)
+
 
 Overview
 
